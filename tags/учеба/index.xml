@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Учёба | Agapova Anna</title>
+    <link>http://localhost:1313/tags/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/</link>
+      <atom:link href="http://localhost:1313/tags/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <description>Учёба</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Учёба</title>
+      <link>http://localhost:1313/tags/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>http://localhost:1313/blog/post1/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1/</guid>
+      <description>&lt;p&gt;На этой неделе я:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Работала над индивидуальным проектом&lt;/li&gt;
+&lt;li&gt;Разобралась с Hugo&lt;/li&gt;
+&lt;li&gt;Настроила локальный сервер&lt;/li&gt;
+&lt;li&gt;Научилась редактировать файлы конфигурации&lt;/li&gt;
+&lt;li&gt;Сделала лабораторную работу №6&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Было интересно!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admin | Agapova Anna</title>
+    <link>http://localhost:1313/authors/admin/</link>
+      <atom:link href="http://localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Admin</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>My week</title>
+      <link>http://localhost:1313/blog/post1/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1/</guid>
+      <description>&lt;p&gt;This week I:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Worked on a custom project&lt;/li&gt;
+&lt;li&gt;Figured out Hugo&lt;/li&gt;
+&lt;li&gt;Set up a local server&lt;/li&gt;
+&lt;li&gt;Learned how to edit configuration files&lt;/li&gt;
+&lt;li&gt;Completed Lab #6&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It was fun!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version control. Git</title>
+      <link>http://localhost:1313/blog/post2/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post2/</guid>
+      <description>&lt;p&gt;Git is a version control system that helps track changes to code.&lt;/p&gt;
+&lt;p&gt;Basic commands:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;git init — create a repository&lt;/li&gt;
+&lt;li&gt;git add — add files&lt;/li&gt;
+&lt;li&gt;git commit — save changes&lt;/li&gt;
+&lt;li&gt;git push — send to GitHub&lt;/li&gt;
+&lt;li&gt;git pull — download changes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In my project, I use Git to publish the site to GitHub Pages.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

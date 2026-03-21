@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Инструменты | Agapova Anna</title>
+    <link>http://localhost:1313/tags/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/</link>
+      <atom:link href="http://localhost:1313/tags/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+    <description>Инструменты</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Инструменты</title>
+      <link>http://localhost:1313/tags/%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/</link>
+    </image>
+    
+    <item>
+      <title>Управление версиями. Git</title>
+      <link>http://localhost:1313/blog/post2/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post2/</guid>
+      <description>&lt;p&gt;Git — это система контроля версий, которая помогает отслеживать изменения в коде.&lt;/p&gt;
+&lt;p&gt;Основные команды:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;git init — создать репозиторий&lt;/li&gt;
+&lt;li&gt;git add — добавить файлы&lt;/li&gt;
+&lt;li&gt;git commit — сохранить изменения&lt;/li&gt;
+&lt;li&gt;git push — отправить на GitHub&lt;/li&gt;
+&lt;li&gt;git pull — скачать изменения&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В своём проекте я использую Git для публикации сайта на GitHub Pages.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
